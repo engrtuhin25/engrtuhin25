@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/FLDfYfpq/tuhin1.jpg">
+<img src="https://i.ibb.co/rRn2txd3/tuhin2.jpg">
 <h1 align="center">Hello👋, I'm Shaikh Md. Ali Wakkas</h1>
 <h3 align="center">A passionate Web Developer | Clean Code | Web Solutions | Beautiful Design From Bangladesh</h3>
 
