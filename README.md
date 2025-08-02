@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/rRn2txd3/tuhin2.jpg"  align="center">
-<h1 align="center">Hello👋, I'm Tuhin Azad</h1>
+<h1 align="center">Hello👋, I'm Shaikh Md. Ali Wakkas</h1>
 <h3 align="center">A passionate Web Developer | Clean Code | Web Solutions | Beautiful Design From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrtuhin25&label=Profile%20views&color=0e75b6&style=flat" alt="engrtuhin25" /> </p>
